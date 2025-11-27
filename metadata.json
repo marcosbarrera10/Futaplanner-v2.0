@@ -1,0 +1,7 @@
+{
+  "name": "FutaPlanner Gemini 3",
+  "description": "Your AI-powered local travel expert for Futaleufú, Patagonia. Plan trips based on weather, transport, and your vibe.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
